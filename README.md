@@ -4,7 +4,16 @@
 Mi nombre es Maxi y soy desarrollador front-end. Actualmente, me encuentro realizando un curso avanzado de fullstack - nodejs.
 
 <img align="center" alt="GIF" src="https://experienciajoven.com/wp-content/uploads/2021/03/que-hace-un-programador-web.gif" width="800" />
-  
+
+**Redes sociales:**
+
+<a href=""><img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
+<a href=""><img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
+<a href=""><img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+<a href=""><img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" /></a>
+
+<br></br>
+   
 **Lenguajes y herramientas:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
