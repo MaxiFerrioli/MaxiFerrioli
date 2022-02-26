@@ -3,9 +3,7 @@
 
 Mi nombre es Maxi y soy desarrollador front-end. Actualmente, me encuentro realizando un curso avanzado de fullstack - nodejs.
 
-<br />
-
-  <img align="center" alt="GIF" src="https://experienciajoven.com/wp-content/uploads/2021/03/que-hace-un-programador-web.gif" width="800" />
+<img align="center" alt="GIF" src="https://experienciajoven.com/wp-content/uploads/2021/03/que-hace-un-programador-web.gif" width="800" />
   
 **Lenguajes y herramientas:**  
 
