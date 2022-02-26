@@ -8,9 +8,7 @@ Mi nombre es Maxi y soy desarrollador front-end. Actualmente, me encuentro reali
 **Me puedes encontrar en:**
 
 <a href=""><img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
-<a href=""><img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
 <a href=""><img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-<a href=""><img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" /></a>
 
 <br></br>
    
