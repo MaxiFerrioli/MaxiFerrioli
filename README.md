@@ -4,7 +4,7 @@ Mi nombre es Maxi y soy desarrollador front-end jr. Actualmente me encuentro ini
 
 <img align="center" alt="GIF" src="https://experienciajoven.com/wp-content/uploads/2021/03/que-hace-un-programador-web.gif" width="800" />
 
-Me mantengo en constante capacitación (leyendo documentación y realizando cursos) con el objetivo de mejorar cada día un poco más y superarme con cada trabajo que vaya haciendo. Mi gran meta es poder vivir de esto que tanto me gusta y divierte, ya sea de forma freelance o desempeñandome en alguna empresa.
+Me mantengo en constante capacitación (leyendo documentación y realizando cursos) con el objetivo de mejorar cada día un poco más y superarme con cada trabajo que vaya haciendo. Mi gran meta es poder vivir de esto que tanto me gusta y divierte, ya sea de forma freelance o desempeñándome en alguna empresa.
 
 ## Contáctame:
 <a href="https://www.instagram.com/maxiferrioli/?hl=es-la"><img align="left" alt="" width="28px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/> </a>
