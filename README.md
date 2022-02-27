@@ -30,3 +30,4 @@ Mi nombre es Maxi y soy desarrollador front-end jr. Actualmente me encuentro ini
 [![MySQL](https://img.shields.io/badge/MySQL-0346EC?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 
+## Mis hoobies:
