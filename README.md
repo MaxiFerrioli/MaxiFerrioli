@@ -1,4 +1,3 @@
-
 ### ¡Hola mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Mi nombre es Maxi y soy desarrollador front-end. Actualmente me encuentro iniciando un curso avanzado de NodeJs y trabajando de manera autónoma en un E-commerce, con el objetivo de mejorar mis habilidades...
@@ -12,20 +11,23 @@ Mi nombre es Maxi y soy desarrollador front-end. Actualmente me encuentro inicia
 "><img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 
 <br></br>
-   
-**Lenguajes y herramientas que manejo:**  
 
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="24" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sass_original_logo_icon_146350.png"></code>
+## Skills:
+[![JavaScript](https://img.shields.io/badge/JavaScript-45B3FF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)
+[![Html5](https://img.shields.io/badge/HTML5-45B3FF?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
+[![css3](https://img.shields.io/badge/CSS3-45B3FF?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
+</br>
+[![ReactJs](https://img.shields.io/badge/React.Js-FFFFFF?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
+[![jQuery](https://img.shields.io/badge/jQuery-FFFFFF?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-FFFFFF?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+</br>
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-45B3FF?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
+[![MaterialUI](https://img.shields.io/badge/Material.UI-45B3FF?style=for-the-badge&logo=materialui&logoColor=white&labelColor=101010)](#)
+[![Sass](https://img.shields.io/badge/Sass-45B3FF?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)](#)
 
-<code><img height="24" src="https://cdn-icons-png.flaticon.com/512/919/919827.png"></code>
-<code><img height="24" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"></code>
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"></code>
-<code><img height="24" src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg"></code>
-<code><img height="24" src="https://programarfacil.com/wp-content/uploads/2015/08/jQurery.png"></code>
-<code><img height="24" src="https://miro.medium.com/max/400/1*BBYoIy6qy2jmBtOMJx7Ndw.png"></code>
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/800px-JSON_vector_logo.svg.png"></code>
+## En proceso:
+[![Node.JS](https://img.shields.io/badge/Node.JS-2C5CFF?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-FFFB00?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-2C5CFF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+</br>
+
