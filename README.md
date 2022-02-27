@@ -29,5 +29,3 @@ Mi nombre es Maxi y soy desarrollador front-end jr. Actualmente me encuentro ini
 [![MongoDB](https://img.shields.io/badge/MongoDB-FFE315?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-0346EC?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
-
-## Mis hoobies:
