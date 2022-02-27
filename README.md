@@ -1,12 +1,11 @@
 ### ¡Hola mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Mi nombre es Maxi y soy desarrollador front-end. Actualmente me encuentro iniciando un curso avanzado de NodeJs y trabajando de manera autónoma en un E-commerce, con el objetivo de mejorar mis habilidades...
+Mi nombre es Maxi y soy desarrollador front-end jr. Actualmente me encuentro iniciando un curso avanzado de NodeJs y trabajando de manera autónoma en un E-commerce, con el objetivo de mejorar mis habilidades...
 
 <img align="center" alt="GIF" src="https://experienciajoven.com/wp-content/uploads/2021/03/que-hace-un-programador-web.gif" width="800" />
 
-**Me puedes encontrar en:**
-
-<a href="https://www.instagram.com/maxiferrioli/?hl=es-la"><img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/> </a>
+## Contáctame:
+<a href="https://www.instagram.com/maxiferrioli/?hl=es-la"><img align="left" alt="" width="28px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/> </a>
 <a href="https://www.linkedin.com/in/maximiliano-adri%C3%A1n-ferrioli/
 "><img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 
@@ -26,8 +25,8 @@ Mi nombre es Maxi y soy desarrollador front-end. Actualmente me encuentro inicia
 [![Sass](https://img.shields.io/badge/Sass-45B3FF?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)](#)
 
 ## En proceso:
-[![Node.JS](https://img.shields.io/badge/Node.JS-2C5CFF?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-FFFB00?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-2C5CFF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-0346EC?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-FFE315?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-0346EC?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 
