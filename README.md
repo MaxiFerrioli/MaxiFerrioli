@@ -1,6 +1,6 @@
 ### ¡Hola mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Mi nombre es Maxi y soy desarrollador front-end jr. Actualmente me encuentro iniciando un curso avanzado de NodeJs y trabajando de manera autónoma en un E-commerce.
+Mi nombre es Maxi y soy <b>desarrollador front-end</b>. Actualmente me encuentro iniciando un curso avanzado de NodeJs y trabajando de manera autónoma en un E-commerce.
 
 <img align="center" alt="GIF" src="https://experienciajoven.com/wp-content/uploads/2021/03/que-hace-un-programador-web.gif" width="800" />
 
