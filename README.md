@@ -92,5 +92,17 @@
       </a>
       <br>MySQL
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://images.tute.io/tute/topic/express-js.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Express
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Next Js
+    </td>
   </tr>
 </table>
