@@ -8,43 +8,43 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="C#" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="48" height="48" alt="Python" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="48" height="48" alt="Golang" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="React Js" />
       </a>
       <br>React Js
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="48" height="48" alt="React" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
@@ -62,45 +62,51 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="48" height="48" alt="C#" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="48" height="48" alt="Angular" />
       </a>
       <br>Angular
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48" alt="Python" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="60" height="48" alt="Golang" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="60" height="48" alt="Redux" />
       </a>
       <br>Redux
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" height="48" alt="Nodejs" />
       </a>
       <br>Node Js
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/ac443c139b1c5adef5f1a6f79bf8550f075b0c64/img/mysql-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/ac443c139b1c5adef5f1a6f79bf8550f075b0c64/img/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://images.tute.io/tute/topic/express-js.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://images.tute.io/tute/topic/express-js.png" width="48" height="48" alt="Express" />
       </a>
       <br>Express
     </td>
      <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="48" height="48" alt="Nextjs" />
       </a>
       <br>Next Js
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
     </td>
   </tr>
 </table>
